@@ -72,7 +72,6 @@
                 //https://qm.qq.com/cgi-bin/qm/qr?k=DheR_SS89gXmeZizNGWcxpwfVMmLA1aY&jump_from=webapi
                 case 2:location.replace('https://%72%65%73%2e%61%62%65%69%6d%2e%63%6e/%61%70%69/%71%71/?%71%71=20534849')
                 break;
-                default:alert('没有')
             }
         }
     }
